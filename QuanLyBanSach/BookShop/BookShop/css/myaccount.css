@@ -1,0 +1,144 @@
+
+#my-user{
+	font-size: 22px;
+	color: #3D82DD;
+	font-weight: bold;
+}
+p#info{
+	font-size: 13px;
+}
+div#change.row,div#my.row,div#order.row{
+	min-height: 650px;
+}
+div#order11.panel-body{
+	min-height: 600px;
+}
+div#myacc.container,div#changep.container,div#od.container{
+	width: 100%!important;
+}
+div#my-0.col-lg-3,div#change-0.col-lg-3,div#order-0,div#my-1.col-lg-9,div#change-1.col-lg-9,div#order-1,div#cart1{
+	margin-top: 20px;
+	width: 100px;
+	margin-bottom: 20px;
+}
+div#mya.panel.panel-default,div#psw.panel.panel-default,div#ode.panel.panel-default{
+	width: 100%;!important;
+}
+
+
+img#img_nv, img#img_avt{
+	width:100px;
+	height:100px;
+
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	border-radius: 50%;
+}
+a#import-avt{
+	font-size: 13px;
+	color: #0000ff;
+	margin-top: 30px;
+}
+a#import-avt:hover{
+	text-decoration: underline;
+}
+div.myaccount ul{
+	list-style: none;
+}
+
+div.myaccount ul{
+	font-size: 15px;
+	margin-top: 50px;	
+}
+div.myaccount ul li{
+	margin-top: 10px;	
+}
+div.myaccount ul li a:link{
+	text-decoration: none;	
+}
+
+div.myaccount ul li a:hover{
+	color: 	 #FC691B;
+}
+a:link{
+	color: #007bff;
+}
+a.active{
+	color: 	 #FC691B;
+}
+
+label.control-label.col-sm-2, div.col-sm-10, p.form-control-static, input#name.form-control, #sel1, #sel2, #sel3{
+	font-size: 13px;
+}
+input#name_tk.form-control, input[type=date], input[type=tel],input[type=email]{
+	width: 400px;
+}
+input#address{
+	height: 100px;
+}
+input[type=tel],input[type=email]{
+	padding: 10px 20px;
+	margin: 8px 0;
+	height: 27px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	border-radius: 5px;
+	-moz-border-radius: 10px;
+	font-size: 13px;
+}
+div.col-sm-offset-2.col-sm-10 button.btn.btn-default{
+	font-size: 15px;
+	background-color: #FE6D1E;
+	color: white;
+	width: 200px;
+	height: 50px;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #ddd}
+
+.show {display:block;}
+
+
+
+
+
+

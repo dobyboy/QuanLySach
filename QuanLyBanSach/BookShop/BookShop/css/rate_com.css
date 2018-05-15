@@ -1,0 +1,95 @@
+
+button#star{
+    width: 30px;
+    height: 30px;
+}
+
+
+.btn.btn-default.btn-grey.btn-sm.active{
+    background-color:rgb(238, 162, 54);
+    color: #FFFFFF;
+    border-color: rgb(238, 162, 54)!important;
+}
+.btn-grey{
+    background-color:#D8D8D8;
+    color:#FFF;
+}
+.rating-block{
+    background-color:#FAFAFA;
+    border:1px solid #EFEFEF;
+    padding:15px 15px 20px 15px;
+    border-radius:3px;
+}
+.bold{
+    font-weight:700;
+}
+.padding-bottom-7{
+    padding-bottom:7px;
+}
+
+.review-block{
+    background-color:#FAFAFA;
+    border:1px solid #EFEFEF;
+    padding:15px;
+    border-radius:3px;
+    margin-bottom:15px;
+}
+.review-block-name{
+    font-size:12px;
+    margin:10px 0;
+}
+.review-block-date{
+    font-size:12px;
+}
+.review-block-rate{
+    font-size:13px;
+    margin-bottom:15px;
+}
+.review-block-title{
+    font-size:15px;
+    font-weight:700;
+    margin-bottom:10px;
+}
+.review-block-description{
+    font-size:13px;
+}
+
+div#panel-cmt.panel.panel-default{
+    width: 100%!important;
+}
+input#cmt{
+    width:100%;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-radius: 20px;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+input#cmt{
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-radius: 20px;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+button#post{
+    width: 10%;
+    padding: 5px;
+    float: right;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background-color: #005cbf;
+}
+button#post:hover{
+    color: #005cbf;
+    background-color: #FFFFFF;
+    border: 1px solid #005cbf;
+}

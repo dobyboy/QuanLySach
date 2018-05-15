@@ -1,0 +1,173 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+/*body {*/
+  /*padding-top: 54px;*/
+/*}*/
+
+/*@media (min-width: 992px) {*/
+  /*body {*/
+    /*padding-top: 56px;*/
+  /*}*/
+/*}*/
+div#id00.modal{
+	padding: 0px!important;
+}
+div#sign-up.container,div#sign-in.container {
+	padding: 16px;
+	width: 100%!important;
+	height: 100%!important;
+
+}
+h1#signup{
+    font-size: 22px;
+    text-align: center;
+    color: deepskyblue;
+    font-weight: bold;
+    margin-top: 10px;
+}
+p#signup{
+	color: dimgrey;
+}
+div.container{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+p#list-book{
+	margin-top: 20px;
+	font-size: 16px;
+	padding: 10px 0;
+	background-color: #4CAF50; 
+	color: #FAFF1A;
+	font-weight: bold;
+	border-radius: 10px;
+	text-align:center;
+}
+/*p#tool {*/
+	/*margin-top: 10px;*/
+	/*float: left;*/
+/*}*/
+
+/*p#tool a{*/
+	/*margin-right: 10px;*/
+	/*text-align: center;*/
+	/*color: white;*/
+/*}*/
+
+/*button.btn.btn-primary{*/
+	/*width: 34px;*/
+	/*height: 34px;*/
+	/*margin-top: 8.7px;*/
+/*}*/
+
+<!--cart shoping-->
+/*#title{*/
+	/*font-weight: bold;*/
+	/*color: #FF2100;*/
+/*}*/
+
+a.readmore{
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+hr.a{
+	border: 2px dot-dash #00bcd4!important;
+}
+div.card.h-100{
+	width: 200px;
+	height: 300px;
+	border: hidden;
+}
+div.card.h-100 a img.card-img-top:hover{
+	width: 90%;
+
+}
+ ul.product{
+ 	float: left;
+ }
+div.card-body{
+	min-height: 100px;
+}
+img.card-img-top{
+	width: 80%;
+}
+.card-title{
+	font-size: 14px;
+}
+#newcost{
+	color: red;
+	font-size: 13px;
+	
+}
+#oldcost{
+	font-size: 12px;
+	color: #022720;
+}
+.card-text{
+	font-size: 12px;
+}
+div.card-footer{
+	height: auto;
+}
+.text-warning{
+	font-size: 14px;
+}
+
+a.readmore.glyphicon.glyphicon-hand-right{
+	font-size: 13px;
+	float: left;
+	margin-left: 600px;
+}
+<!-- Danh muc menu-->
+
+
+p#list-book{
+	margin-top: 10px;
+}
+
+.form-cotrol{
+	width: 70%;
+}
+a .more:hover{
+	text-underline: none;
+}
+	
+<!-- Content-->	
+
+div.carouse-inner{
+
+}
+
+img.d-block.img-fluid{
+		width: 900px;
+	height: 400px;
+}	
+	
+footer.py-5{
+	padding-bottom: 10px !important;
+	padding-top: 10px !important;
+}
+.bg-dark{	
+	background-color: #DEDEDC;
+}	
+footer.container p a{
+	color: white;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

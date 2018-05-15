@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eb9b94a-0cbb-4e05-be41-93766ba7c9de" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="modal-themsach.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-themsach.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="24" column="166" lean-forward="false" selection-start-line="24" selection-start-column="166" selection-end-line="24" selection-end-column="166" />
+              <folding>
+                <marker date="1525976691261" expanded="true" signature="777:925" ph="INSERT INTO sach... " />
+                <marker date="1525976691261" expanded="true" signature="990:1035" ph="INSERT INTO kho... " />
+                <marker date="1525976691261" expanded="true" signature="1102:1160" ph="INSERT INTO kho... " />
+                <marker date="1525976691261" expanded="true" signature="1284:1354" ph="..." />
+                <marker date="1525976691261" expanded="true" signature="1400:1467" ph="..." />
+                <marker date="1525976691261" expanded="true" signature="1513:1590" ph="..." />
+                <marker date="1525976691261" expanded="true" signature="4573:4598" ph="SELECT count... sach" />
+                <marker date="1525976691261" expanded="true" signature="5766:5787" ph="SELECT * FRO... tac_gia" />
+                <marker date="1525976691261" expanded="true" signature="6416:6438" ph="SELECT * FRO... dich_gia" />
+                <marker date="1525976691261" expanded="true" signature="7299:7323" ph="SELECT * FRO... kich_thuoc" />
+                <marker date="1525976691261" expanded="true" signature="8111:8133" ph="SELECT * FRO... loai_bia" />
+                <marker date="1525976691261" expanded="true" signature="8914:8937" ph="SELECT * FRO... loai_sach" />
+                <marker date="1525976691261" expanded="true" signature="9778:9804" ph="SELECT * FRO... nha_xuat_ban" />
+                <marker date="1525976691261" expanded="true" signature="10451:10477" ph="SELECT * FRO... nha_cung_cap" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phan_header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/phan_header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5320">
+              <caret line="280" column="21" lean-forward="false" selection-start-line="280" selection-start-column="21" selection-end-line="280" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tongquan.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/tongquan/tongquan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-294">
+              <caret line="184" column="28" lean-forward="false" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
+              <folding>
+                <marker date="1525957768542" expanded="true" signature="3492:3547" ph="Select count... tai_khoan" />
+                <marker date="1525957768542" expanded="true" signature="3851:3906" ph="Select count... tai_khoan" />
+                <marker date="1525957768542" expanded="true" signature="4210:4235" ph="Select count... sach" />
+                <marker date="1525957768542" expanded="true" signature="4539:4568" ph="Select count... don_hang" />
+                <marker date="1525957768542" expanded="true" signature="4871:4922" ph="Select sum(s... chi_tiet_don_hang" />
+                <marker date="1525957768542" expanded="true" signature="7298:7376" ph="select count... don_hang" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quan-ly-khuyen-mai.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/quan-ly-khuyen-mai.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="51" column="131" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="131" />
+              <folding>
+                <marker date="1525975382408" expanded="true" signature="1375:1399" ph="SELECT * FRO... khuyen_mai" />
+                <marker date="1525975382408" expanded="true" signature="1929:1945" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2033:2049" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2138:2154" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2246:2262" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2355:2371" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2460:2471" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2472:2522" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2472:2551" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2472:2554" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2472:2848" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2472:2849" ph="..." />
+                <marker date="1525975382408" expanded="true" signature="2472:2934" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="them-khuyen-mai.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/them-khuyen-mai.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="21" />
+              <folding>
+                <marker date="1525972410014" expanded="true" signature="1111:1141" ph="SELECT * FRO... khuyen_mai" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sua-khuyen-mai.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/sua-khuyen-mai.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+              <folding>
+                <marker date="1525974384502" expanded="true" signature="1125:1155" ph="SELECT * FRO... khuyen_mai" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quan-ly-kho.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/quanlykho/quan-ly-kho.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="51" column="145" lean-forward="true" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="145" />
+              <folding>
+                <marker date="1525728628622" expanded="true" signature="899:1184" ph="SELECT s.ma_... sach" />
+                <marker date="1525728628622" expanded="true" signature="1508:1537" ph="..." />
+                <marker date="1525728628622" expanded="true" signature="1599:1615" ph="..." />
+                <marker date="1525728628622" expanded="true" signature="1680:1696" ph="..." />
+                <marker date="1525728628622" expanded="true" signature="1824:1836" ph="..." />
+                <marker date="1525728628622" expanded="true" signature="1837:2112" ph="..." />
+                <marker date="1525728628622" expanded="false" signature="2018:2029" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quan-ly-sach.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/quan-ly-sach.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="114" column="74" lean-forward="true" selection-start-line="114" selection-start-column="74" selection-end-line="114" selection-end-column="74" />
+              <folding>
+                <marker date="1525978026073" expanded="true" signature="207:803" ph="SELECT * FRO... sach" />
+                <marker date="1525978026073" expanded="true" signature="207:804" ph="SELECT * FRO... sach" />
+                <marker date="1525978026073" expanded="true" signature="207:807" ph="SELECT * FRO... sach" />
+                <marker date="1525978026073" expanded="true" signature="207:810" ph="SELECT * FRO... sach" />
+                <marker date="1525978026073" expanded="true" signature="207:813" ph="SELECT * FRO... sach" />
+                <marker date="1525978026073" expanded="true" signature="3876:4271" ph="SELECT s.id_... sach" />
+                <marker date="1525978026073" expanded="true" signature="5079:5498" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal-xemthongtinsach.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xemthongtinsach.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="2" />
+              <folding>
+                <marker date="1525825439529" expanded="true" signature="2595:2652" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/quanlydonhang/capnhatdonhang.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydanhmucsach/modal-loaisach/modal-themsach.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xoasach.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xemthongtinsach.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-capnhatthongtinsach.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydonhang/duyetdonhang.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydonhang/modal-duyet-don-hang.php" />
+        <option value="$PROJECT_DIR$/admin/menudoc.php" />
+        <option value="$PROJECT_DIR$/admin/tongquan/tongquan.php" />
+        <option value="$PROJECT_DIR$/admin/phan_header.php" />
+        <option value="$PROJECT_DIR$/admin/quanlykhuyenmai/them-khuyen-mai.php" />
+        <option value="$PROJECT_DIR$/admin/quanlykhuyenmai/sua-khuyen-mai.php" />
+        <option value="$PROJECT_DIR$/admin/quanlykhuyenmai/quan-ly-khuyen-mai.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-themsach.php" />
+        <option value="$PROJECT_DIR$/admin/quanlydanhmucsach/quan-ly-sach.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="SearchEverywhereHistoryKey" value="modal&#9;FILE&#9;file://C:/xampp/htdocs/QuanLyBanSach/admin/quanlydanhmucsach/modal_sach/modal-capnhatthongtinsach.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eb9b94a-0cbb-4e05-be41-93766ba7c9de" name="Default" comment="" />
+      <created>1522758022266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522758022266</updated>
+      <workItem from="1522758025261" duration="1750000" />
+      <workItem from="1525784897686" duration="14508000" />
+      <workItem from="1525802313973" duration="25802000" />
+      <workItem from="1525887405690" duration="17897000" />
+      <workItem from="1525972490220" duration="4941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64898000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-themsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="97" column="5" lean-forward="false" selection-start-line="79" selection-start-column="2" selection-end-line="97" selection-end-column="5" />
+          <folding>
+            <marker date="1525976691261" expanded="true" signature="777:925" ph="INSERT INTO sach... " />
+            <marker date="1525976691261" expanded="true" signature="990:1035" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1102:1160" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1284:1354" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1400:1467" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1513:1590" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="4573:4598" ph="SELECT count... sach" />
+            <marker date="1525976691261" expanded="true" signature="5766:5787" ph="SELECT * FRO... tac_gia" />
+            <marker date="1525976691261" expanded="true" signature="6416:6438" ph="SELECT * FRO... dich_gia" />
+            <marker date="1525976691261" expanded="true" signature="7299:7323" ph="SELECT * FRO... kich_thuoc" />
+            <marker date="1525976691261" expanded="true" signature="8111:8133" ph="SELECT * FRO... loai_bia" />
+            <marker date="1525976691261" expanded="true" signature="8914:8937" ph="SELECT * FRO... loai_sach" />
+            <marker date="1525976691261" expanded="true" signature="9778:9804" ph="SELECT * FRO... nha_xuat_ban" />
+            <marker date="1525976691261" expanded="true" signature="10451:10477" ph="SELECT * FRO... nha_cung_cap" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/phan_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5320">
+          <caret line="280" column="21" lean-forward="false" selection-start-line="280" selection-start-column="21" selection-end-line="280" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/modal-duyet-don-hang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <marker date="1525849866775" expanded="true" signature="87:166" ph="update don_hang... " />
+            <marker date="1525849866775" expanded="true" signature="247:323" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tongquan/tongquan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3496">
+          <caret line="184" column="28" lean-forward="true" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
+          <folding>
+            <marker date="1525957768542" expanded="true" signature="3492:3547" ph="Select count... tai_khoan" />
+            <marker date="1525957768542" expanded="true" signature="3851:3906" ph="Select count... tai_khoan" />
+            <marker date="1525957768542" expanded="true" signature="4210:4235" ph="Select count... sach" />
+            <marker date="1525957768542" expanded="true" signature="4539:4568" ph="Select count... don_hang" />
+            <marker date="1525957768542" expanded="true" signature="4871:4922" ph="Select sum(s... chi_tiet_don_hang" />
+            <marker date="1525957768542" expanded="true" signature="7298:7376" ph="select count... don_hang" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/quan-ly-khuyen-mai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="105" lean-forward="false" selection-start-line="51" selection-start-column="105" selection-end-line="51" selection-end-column="105" />
+          <folding>
+            <marker date="1525975382408" expanded="true" signature="1375:1399" ph="SELECT * FRO... khuyen_mai" />
+            <marker date="1525975382408" expanded="true" signature="1929:1945" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2033:2049" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2138:2154" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2246:2262" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2355:2371" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2460:2471" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2522" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2551" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2554" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2848" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2849" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2934" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/menudoc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="81" lean-forward="false" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/quan-ly-sach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="120" column="59" lean-forward="false" selection-start-line="120" selection-start-column="59" selection-end-line="120" selection-end-column="59" />
+          <folding>
+            <marker date="1525978026073" expanded="true" signature="207:803" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:804" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:807" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:810" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:813" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="3876:4271" ph="SELECT s.id_... sach" />
+            <marker date="1525978026073" expanded="true" signature="5079:5498" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/duyetdonhang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <marker date="1525842107243" expanded="true" signature="170:375" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="1656:1782" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="2058:2074" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2134:2150" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2213:2229" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2291:2307" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2366:2378" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2379:2578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xemthongtinsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="2" />
+          <folding>
+            <marker date="1525825439529" expanded="true" signature="2595:2652" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/them-khuyen-mai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <marker date="1525972410014" expanded="true" signature="1111:1141" ph="SELECT * FRO... khuyen_mai" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-themsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <marker date="1525976691261" expanded="true" signature="777:925" ph="INSERT INTO sach... " />
+            <marker date="1525976691261" expanded="true" signature="990:1035" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1102:1160" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1284:1354" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1400:1467" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1513:1590" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="4573:4598" ph="SELECT count... sach" />
+            <marker date="1525976691261" expanded="true" signature="5766:5787" ph="SELECT * FRO... tac_gia" />
+            <marker date="1525976691261" expanded="true" signature="6416:6438" ph="SELECT * FRO... dich_gia" />
+            <marker date="1525976691261" expanded="true" signature="7299:7323" ph="SELECT * FRO... kich_thuoc" />
+            <marker date="1525976691261" expanded="true" signature="8111:8133" ph="SELECT * FRO... loai_bia" />
+            <marker date="1525976691261" expanded="true" signature="8914:8937" ph="SELECT * FRO... loai_sach" />
+            <marker date="1525976691261" expanded="true" signature="9778:9804" ph="SELECT * FRO... nha_xuat_ban" />
+            <marker date="1525976691261" expanded="true" signature="10451:10477" ph="SELECT * FRO... nha_cung_cap" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/modal-duyet-don-hang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <marker date="1525849866775" expanded="true" signature="87:166" ph="update don_hang... " />
+            <marker date="1525849866775" expanded="true" signature="247:323" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tongquan/tongquan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2489">
+          <caret line="131" column="46" lean-forward="false" selection-start-line="131" selection-start-column="46" selection-end-line="131" selection-end-column="46" />
+          <folding>
+            <marker date="1525957768542" expanded="true" signature="3492:3547" ph="Select count... tai_khoan" />
+            <marker date="1525957768542" expanded="true" signature="3851:3906" ph="Select count... tai_khoan" />
+            <marker date="1525957768542" expanded="true" signature="4210:4235" ph="Select count... sach" />
+            <marker date="1525957768542" expanded="true" signature="4539:4568" ph="Select count... don_hang" />
+            <marker date="1525957768542" expanded="true" signature="4871:4922" ph="Select sum(s... chi_tiet_don_hang" />
+            <marker date="1525957768542" expanded="true" signature="7298:7376" ph="select count... don_hang" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/quan-ly-khuyen-mai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525975382408" expanded="true" signature="1375:1399" ph="SELECT * FRO... khuyen_mai" />
+            <marker date="1525975382408" expanded="true" signature="1929:1945" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2033:2049" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2138:2154" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2246:2262" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2355:2371" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2460:2471" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2522" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2551" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2554" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2848" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2849" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2934" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/quan-ly-sach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="104" column="57" lean-forward="false" selection-start-line="104" selection-start-column="57" selection-end-line="104" selection-end-column="62" />
+          <folding>
+            <marker date="1525978026073" expanded="true" signature="207:803" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:804" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:807" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:810" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:813" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="3876:4271" ph="SELECT s.id_... sach" />
+            <marker date="1525978026073" expanded="true" signature="5079:5498" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/duyetdonhang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <marker date="1525842107243" expanded="true" signature="170:375" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="1656:1782" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="2058:2074" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2134:2150" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2213:2229" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2291:2307" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2366:2378" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2379:2578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xemthongtinsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="2" />
+          <folding>
+            <marker date="1525825439529" expanded="true" signature="2595:2652" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-capnhatthongtinsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/menudoc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="81" lean-forward="false" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-themsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <marker date="1525976691261" expanded="true" signature="777:925" ph="INSERT INTO sach... " />
+            <marker date="1525976691261" expanded="true" signature="990:1035" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1102:1160" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1284:1354" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1400:1467" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1513:1590" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="4573:4598" ph="SELECT count... sach" />
+            <marker date="1525976691261" expanded="true" signature="5766:5787" ph="SELECT * FRO... tac_gia" />
+            <marker date="1525976691261" expanded="true" signature="6416:6438" ph="SELECT * FRO... dich_gia" />
+            <marker date="1525976691261" expanded="true" signature="7299:7323" ph="SELECT * FRO... kich_thuoc" />
+            <marker date="1525976691261" expanded="true" signature="8111:8133" ph="SELECT * FRO... loai_bia" />
+            <marker date="1525976691261" expanded="true" signature="8914:8937" ph="SELECT * FRO... loai_sach" />
+            <marker date="1525976691261" expanded="true" signature="9778:9804" ph="SELECT * FRO... nha_xuat_ban" />
+            <marker date="1525976691261" expanded="true" signature="10451:10477" ph="SELECT * FRO... nha_cung_cap" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/quan-ly-sach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+          <folding>
+            <marker date="1525978026073" expanded="true" signature="207:803" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:804" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:807" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:810" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:813" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="3876:4271" ph="SELECT s.id_... sach" />
+            <marker date="1525978026073" expanded="true" signature="5079:5498" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xoasach.php" />
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-capnhatthongtinsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2166">
+          <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xemthongtinsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1525825439529" expanded="true" signature="2595:2652" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/capnhatdonhang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/duyetdonhang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <marker date="1525842107243" expanded="true" signature="170:375" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="1656:1782" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="2058:2074" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2134:2150" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2213:2229" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2291:2307" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2366:2378" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2379:2578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/capnhatdonhang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="51" lean-forward="false" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal-loaisach/modal-themsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuly/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xoasach.php" />
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-capnhatthongtinsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/duyetdonhang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <marker date="1525842107243" expanded="true" signature="170:375" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="1656:1782" ph="SELECT * FRO... don_hang" />
+            <marker date="1525842107243" expanded="true" signature="2058:2074" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2134:2150" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2213:2229" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2291:2307" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2366:2378" ph="..." />
+            <marker date="1525842107243" expanded="true" signature="2379:2578" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-xemthongtinsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="2" />
+          <folding>
+            <marker date="1525825439529" expanded="true" signature="2595:2652" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydonhang/modal-duyet-don-hang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <marker date="1525849866775" expanded="true" signature="87:166" ph="update don_hang... " />
+            <marker date="1525849866775" expanded="true" signature="247:323" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/menudoc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="81" lean-forward="false" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/phan_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5320">
+          <caret line="280" column="21" lean-forward="false" selection-start-line="280" selection-start-column="21" selection-end-line="280" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/tongquan/tongquan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="184" column="28" lean-forward="false" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
+          <folding>
+            <marker date="1525957768542" expanded="true" signature="3492:3547" ph="Select count... tai_khoan" />
+            <marker date="1525957768542" expanded="true" signature="3851:3906" ph="Select count... tai_khoan" />
+            <marker date="1525957768542" expanded="true" signature="4210:4235" ph="Select count... sach" />
+            <marker date="1525957768542" expanded="true" signature="4539:4568" ph="Select count... don_hang" />
+            <marker date="1525957768542" expanded="true" signature="4871:4922" ph="Select sum(s... chi_tiet_don_hang" />
+            <marker date="1525957768542" expanded="true" signature="7298:7376" ph="select count... don_hang" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/them-khuyen-mai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <marker date="1525972410014" expanded="true" signature="1111:1141" ph="SELECT * FRO... khuyen_mai" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/modal_sach/modal-themsach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="166" lean-forward="false" selection-start-line="24" selection-start-column="166" selection-end-line="24" selection-end-column="166" />
+          <folding>
+            <marker date="1525976691261" expanded="true" signature="777:925" ph="INSERT INTO sach... " />
+            <marker date="1525976691261" expanded="true" signature="990:1035" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1102:1160" ph="INSERT INTO kho... " />
+            <marker date="1525976691261" expanded="true" signature="1284:1354" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1400:1467" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="1513:1590" ph="..." />
+            <marker date="1525976691261" expanded="true" signature="4573:4598" ph="SELECT count... sach" />
+            <marker date="1525976691261" expanded="true" signature="5766:5787" ph="SELECT * FRO... tac_gia" />
+            <marker date="1525976691261" expanded="true" signature="6416:6438" ph="SELECT * FRO... dich_gia" />
+            <marker date="1525976691261" expanded="true" signature="7299:7323" ph="SELECT * FRO... kich_thuoc" />
+            <marker date="1525976691261" expanded="true" signature="8111:8133" ph="SELECT * FRO... loai_bia" />
+            <marker date="1525976691261" expanded="true" signature="8914:8937" ph="SELECT * FRO... loai_sach" />
+            <marker date="1525976691261" expanded="true" signature="9778:9804" ph="SELECT * FRO... nha_xuat_ban" />
+            <marker date="1525976691261" expanded="true" signature="10451:10477" ph="SELECT * FRO... nha_cung_cap" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/quan-ly-khuyen-mai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="51" column="131" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="131" />
+          <folding>
+            <marker date="1525975382408" expanded="true" signature="1375:1399" ph="SELECT * FRO... khuyen_mai" />
+            <marker date="1525975382408" expanded="true" signature="1929:1945" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2033:2049" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2138:2154" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2246:2262" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2355:2371" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2460:2471" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2522" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2551" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2554" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2848" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2849" ph="..." />
+            <marker date="1525975382408" expanded="true" signature="2472:2934" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlykho/quan-ly-kho.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="51" column="145" lean-forward="true" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="145" />
+          <folding>
+            <marker date="1525728628622" expanded="true" signature="899:1184" ph="SELECT s.ma_... sach" />
+            <marker date="1525728628622" expanded="true" signature="1508:1537" ph="..." />
+            <marker date="1525728628622" expanded="true" signature="1599:1615" ph="..." />
+            <marker date="1525728628622" expanded="true" signature="1680:1696" ph="..." />
+            <marker date="1525728628622" expanded="true" signature="1824:1836" ph="..." />
+            <marker date="1525728628622" expanded="true" signature="1837:2112" ph="..." />
+            <marker date="1525728628622" expanded="false" signature="2018:2029" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlykhuyenmai/sua-khuyen-mai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <marker date="1525974384502" expanded="true" signature="1125:1155" ph="SELECT * FRO... khuyen_mai" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/quanlydanhmucsach/quan-ly-sach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="114" column="74" lean-forward="true" selection-start-line="114" selection-start-column="74" selection-end-line="114" selection-end-column="74" />
+          <folding>
+            <marker date="1525978026073" expanded="true" signature="207:803" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:804" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:807" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:810" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="207:813" ph="SELECT * FRO... sach" />
+            <marker date="1525978026073" expanded="true" signature="3876:4271" ph="SELECT s.id_... sach" />
+            <marker date="1525978026073" expanded="true" signature="5079:5498" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

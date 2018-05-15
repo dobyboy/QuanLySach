@@ -1,0 +1,61 @@
+
+div#tt.container{
+    margin-top: 50px!important;
+
+}
+div#pn.panel-primary{
+    box-sizing: border-box;
+    width: 100%;
+}
+div#title.panel-title{
+    background-color: #1e7e34;
+    padding: 20px;
+    color: #FFFFFF;
+}
+ul.ht_tt{
+    list-style: none;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+button#tra{
+    height: 50px;
+    padding: 10px 0px;
+}
+ button#tra.btn.active, button#tra:hover{
+    background-color: #1e7e34;
+    color: #FFFFFF;
+}
+button#tra{
+    background-color: #FFFFFF;
+    color: #1e7e34;
+    border-color: #1a9024;
+    margin-bottom: 10px;
+}
+
+td.col-lg-4{
+    padding: 2px 10px;
+    margin-top: 2px;
+}
+button.save{
+    color: #FFFFFF;
+    background-color: #005cbf;
+    width: 70px;
+    height: 40px;
+    font-size: 13px;
+    border-radius: 5px;
+    float: right;
+}
+
+tr#footer td{
+    color: #1a9024;
+    font-size: 18px;
+    padding: 30px;
+    font-weight: bold;
+}
+div#th button.btn.btn-warning{
+    float: right;
+}
+div#th button.btn.btn-info{
+    margin-left: 50%;
+}
